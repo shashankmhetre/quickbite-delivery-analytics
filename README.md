@@ -28,6 +28,25 @@ The final datasets are also loaded into a MySQL database with a proper relationa
 - UPI was the dominant payment method at 52%; Cash on Delivery was under 10%
 - Mumbai and Delhi together made up 43% of total revenue
 - Peak ordering was between 7–9 PM, with a smaller lunch spike around noon
+- ## Charts
+
+![Monthly Revenue Trend](charts/01_monthly_revenue.png)
+
+![Orders by Hour](charts/02_orders_by_hour.png)
+
+![Revenue by City](charts/03_revenue_by_city.png)
+
+![Delivery Time Distribution](charts/05_delivery_time_dist.png)
+
+![Partner Efficiency](charts/08_partner_efficiency.png)
+
+![Distance vs Time](charts/09_distance_vs_time.png)
+
+![Customer Segmentation](charts/12_customer_segmentation.png)
+
+![Demand Heatmap](charts/13_demand_heatmap.png)
+
+![Monthly Order Volume](charts/14_monthly_order_volume.png)
 
 ---
 
