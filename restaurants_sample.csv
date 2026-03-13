@@ -1,0 +1,501 @@
+restaurant_id,restaurant_name,city,cuisine,avg_prep_time_minutes,rating,price_category
+REST0001,Bella Pasta,Delhi,Italian,17,4.8,Budget
+REST0002,Tandoori Nights,Kolkata,North Indian,24,4.3,Mid-range
+REST0003,Idli Express,Mumbai,South Indian,19,4.6,Premium
+REST0004,The Continental Kitchen,Hyderabad,Continental,19,4.4,Budget
+REST0005,Bazaar Bites,Bangalore,Street Food,11,4.5,Budget
+REST0006,Oriental Bowl,Hyderabad,Chinese,19,4.2,Budget
+REST0007,Sambar House,Mumbai,South Indian,17,4.2,Budget
+REST0008,Fry Nation,Ahmedabad,Fast Food,14,4.4,Mid-range
+REST0009,Golden Crust Bakery,Chennai,Bakery,11,4.4,Mid-range
+REST0010,Dum Delight,Chennai,Biryani,21,4.1,Premium
+REST0011,Hyderabadi Dum Biryani,Bangalore,Biryani,25,4.2,Mid-range
+REST0012,Sweet Crumbs,Bangalore,Bakery,11,4.8,Premium
+REST0013,Hyderabadi Dum Biryani Hyderabad,Hyderabad,Biryani,29,4.7,Premium
+REST0014,Dosa Plaza,Mumbai,South Indian,18,3.8,Budget
+REST0015,Tasty Chaat Corner,Delhi,Street Food,15,3.9,Budget
+REST0016,Burger Hub,Kolkata,Fast Food,11,4.0,Premium
+REST0017,Biryani Express,Bangalore,Biryani,21,4.5,Budget
+REST0018,Wholesome Bowl,Bangalore,Healthy,18,4.2,Budget
+REST0019,Dum Delight Mumbai,Mumbai,Biryani,29,4.0,Budget
+REST0020,Sweet Crumbs Bangalore,Bangalore,Bakery,8,4.1,Mid-range
+REST0021,Bite Express,Delhi,Fast Food,11,4.1,Budget
+REST0022,Delhi Darbar,Pune,North Indian,21,4.5,Mid-range
+REST0023,Quick Bites,Hyderabad,Fast Food,11,4.3,Mid-range
+REST0024,Spice Street,Ahmedabad,Street Food,15,3.8,Mid-range
+REST0025,Coconut Grove,Mumbai,South Indian,16,4.3,Budget
+REST0026,Tasty Chaat Corner Bangalore,Bangalore,Street Food,15,4.4,Premium
+REST0027,Snack Shack,Mumbai,Fast Food,11,4.8,Mid-range
+REST0028,Maharaja Kitchen,Bangalore,North Indian,16,4.5,Mid-range
+REST0029,Amritsar Express,Mumbai,North Indian,19,4.2,Premium
+REST0030,Golden Panda,Hyderabad,Chinese,20,4.6,Budget
+REST0031,Sugar Bliss,Kolkata,Desserts,8,4.2,Premium
+REST0032,Baker's Delight,Chennai,Bakery,12,4.4,Budget
+REST0033,Coffee Corner,Mumbai,Cafe,5,4.5,Premium
+REST0034,Dragon Wok,Chennai,Chinese,19,4.4,Premium
+REST0035,Delhi Darbar Mumbai,Mumbai,North Indian,20,4.4,Budget
+REST0036,Tuscany Table,Delhi,Italian,25,3.9,Budget
+REST0037,Madras Cafe,Chennai,South Indian,19,4.1,Budget
+REST0038,Mumbai Tiffin,Chennai,Street Food,14,4.4,Premium
+REST0039,Biryani Express Chennai,Chennai,Biryani,23,3.9,Budget
+REST0040,Vital Greens,Chennai,Healthy,16,3.7,Premium
+REST0041,Royal Tandoor,Chennai,North Indian,24,4.1,Budget
+REST0042,Daily Grind Cafe,Mumbai,Cafe,5,4.6,Mid-range
+REST0043,Burger Hub Chennai,Chennai,Fast Food,14,4.3,Premium
+REST0044,Royal Tandoor Pune,Pune,North Indian,20,4.0,Mid-range
+REST0045,Maharaja Kitchen Bangalore,Bangalore,North Indian,15,4.6,Budget
+REST0046,Little Italy,Hyderabad,Italian,16,3.9,Budget
+REST0047,Oven Fresh,Mumbai,Bakery,10,4.5,Budget
+REST0048,Urban Burgers,Bangalore,Fast Food,10,4.3,Premium
+REST0049,Little Italy Mumbai,Mumbai,Italian,18,3.8,Budget
+REST0050,Chaat Junction,Mumbai,Street Food,13,4.4,Budget
+REST0051,Daily Grind Cafe Hyderabad,Hyderabad,Cafe,6,4.2,Premium
+REST0052,Mumbai Tiffin Mumbai,Mumbai,Street Food,17,4.3,Budget
+REST0053,Pizza Palace,Delhi,Italian,17,4.4,Budget
+REST0054,Biryani Express Delhi,Delhi,Biryani,23,4.4,Mid-range
+REST0055,The Continental Kitchen Delhi,Delhi,Continental,27,4.5,Premium
+REST0056,Shanghai Bites,Delhi,Chinese,15,4.3,Mid-range
+REST0057,Idli Express Chennai,Chennai,South Indian,18,4.8,Mid-range
+REST0058,Royal Tandoor Mumbai,Mumbai,North Indian,16,4.2,Premium
+REST0059,Urban Burgers Bangalore,Bangalore,Fast Food,10,4.5,Mid-range
+REST0060,Fry Nation Mumbai,Mumbai,Fast Food,13,4.5,Premium
+REST0061,Urban Brew,Hyderabad,Cafe,8,4.2,Premium
+REST0062,Spice Biryani Co.,Bangalore,Biryani,30,4.1,Budget
+REST0063,Snack Shack Mumbai,Mumbai,Fast Food,15,4.6,Premium
+REST0064,Crust & Crumbs,Delhi,Bakery,9,4.5,Mid-range
+REST0065,Sweet Crumbs Delhi,Delhi,Bakery,12,4.3,Mid-range
+REST0066,Bazaar Bites Delhi,Delhi,Street Food,10,4.6,Budget
+REST0067,Urban Brew Chennai,Chennai,Cafe,6,4.5,Budget
+REST0068,Roma Kitchen,Hyderabad,Italian,15,4.2,Premium
+REST0069,Quick Bites Kolkata,Kolkata,Fast Food,13,4.3,Budget
+REST0070,Little Italy Bangalore,Bangalore,Italian,17,4.4,Budget
+REST0071,Sugar Bliss Bangalore,Bangalore,Desserts,8,4.0,Premium
+REST0072,Brewed Awakening,Mumbai,Cafe,5,4.8,Premium
+REST0073,Idli Express Ahmedabad,Ahmedabad,South Indian,13,3.6,Budget
+REST0074,Gourmet Avenue,Hyderabad,Continental,18,4.6,Budget
+REST0075,Velvet Desserts,Chennai,Desserts,8,4.5,Premium
+REST0076,Brewed Awakening Bangalore,Bangalore,Cafe,6,4.9,Budget
+REST0077,Punjabi Tadka,Bangalore,North Indian,20,4.4,Mid-range
+REST0078,Amritsar Express Kolkata,Kolkata,North Indian,21,4.8,Budget
+REST0079,Golden Panda Pune,Pune,Chinese,18,4.2,Budget
+REST0080,Chaat Junction Delhi,Delhi,Street Food,15,4.6,Mid-range
+REST0081,Quick Bites Delhi,Delhi,Fast Food,10,4.7,Budget
+REST0082,Crunchy Bites,Bangalore,Fast Food,11,4.1,Budget
+REST0083,Spice Biryani Co. Delhi,Delhi,Biryani,26,4.5,Budget
+REST0084,Red Dragon,Bangalore,Chinese,18,3.7,Mid-range
+REST0085,Madras Cafe Mumbai,Mumbai,South Indian,12,4.4,Premium
+REST0086,Bazaar Bites Delhi,Delhi,Street Food,15,4.5,Premium
+REST0087,Little Italy Delhi,Delhi,Italian,23,4.1,Premium
+REST0088,Cafe Aroma,Mumbai,Cafe,5,4.1,Budget
+REST0089,Brewed Awakening Kolkata,Kolkata,Cafe,5,4.3,Premium
+REST0090,Oven Fresh Bangalore,Bangalore,Bakery,9,4.5,Mid-range
+REST0091,Shanghai Bites Kolkata,Kolkata,Chinese,22,4.0,Budget
+REST0092,Sugar Bliss Pune,Pune,Desserts,9,4.2,Premium
+REST0093,Lucky Dragon,Delhi,Chinese,18,4.0,Mid-range
+REST0094,Spice Street Bangalore,Bangalore,Street Food,16,4.7,Premium
+REST0095,Royal Biryani House,Bangalore,Biryani,24,4.4,Budget
+REST0096,Biryani Junction,Chennai,Biryani,20,4.1,Mid-range
+REST0097,Crunchy Bites Mumbai,Mumbai,Fast Food,14,4.6,Mid-range
+REST0098,Delhi Darbar Delhi,Delhi,North Indian,23,4.3,Budget
+REST0099,Bazaar Bites Delhi,Delhi,Street Food,14,4.6,Budget
+REST0100,Urban Burgers Bangalore,Bangalore,Fast Food,10,4.0,Mid-range
+REST0101,Urban Brew Chennai,Chennai,Cafe,5,4.4,Mid-range
+REST0102,Spice of Punjab,Delhi,North Indian,15,4.5,Premium
+REST0103,Heavenly Sweets,Delhi,Desserts,12,4.6,Budget
+REST0104,Coffee Corner Delhi,Delhi,Cafe,7,4.4,Budget
+REST0105,Madras Cafe Mumbai,Mumbai,South Indian,16,4.1,Budget
+REST0106,Spice of Punjab Ahmedabad,Ahmedabad,North Indian,23,4.5,Mid-range
+REST0107,Crust & Crumbs Kolkata,Kolkata,Bakery,9,4.0,Mid-range
+REST0108,Burger Hub Mumbai,Mumbai,Fast Food,11,4.3,Budget
+REST0109,Bella Pasta Mumbai,Mumbai,Italian,20,4.3,Budget
+REST0110,Maharaja Kitchen Bangalore,Bangalore,North Indian,21,4.0,Mid-range
+REST0111,Burger Hub Mumbai,Mumbai,Fast Food,10,4.7,Budget
+REST0112,Fit Kitchen,Hyderabad,Healthy,14,3.8,Mid-range
+REST0113,Dum Delight Mumbai,Mumbai,Biryani,26,4.5,Mid-range
+REST0114,Mumbai Tiffin Mumbai,Mumbai,Street Food,11,4.6,Mid-range
+REST0115,Daily Grind Cafe Chennai,Chennai,Cafe,6,4.3,Budget
+REST0116,Lucky Dragon Bangalore,Bangalore,Chinese,15,4.3,Premium
+REST0117,Spice of Punjab Hyderabad,Hyderabad,North Indian,15,4.4,Premium
+REST0118,Oriental Bowl Mumbai,Mumbai,Chinese,16,4.6,Mid-range
+REST0119,Sugar Oven,Mumbai,Bakery,8,4.7,Budget
+REST0120,Delhi Street Bites,Hyderabad,Street Food,10,4.0,Budget
+REST0121,Napoli Pizzeria,Hyderabad,Italian,19,4.8,Budget
+REST0122,Brewed Awakening Bangalore,Bangalore,Cafe,5,4.6,Budget
+REST0123,Tasty Chaat Corner Pune,Pune,Street Food,15,4.5,Mid-range
+REST0124,Dragon Wok Pune,Pune,Chinese,19,4.3,Premium
+REST0125,Red Dragon Mumbai,Mumbai,Chinese,21,4.4,Mid-range
+REST0126,Punjabi Tadka Delhi,Delhi,North Indian,22,4.5,Premium
+REST0127,Sambar House Mumbai,Mumbai,South Indian,14,3.9,Mid-range
+REST0128,Nawabi Biryani,Delhi,Biryani,21,4.4,Mid-range
+REST0129,Vital Greens Kolkata,Kolkata,Healthy,13,4.5,Mid-range
+REST0130,Spice Street Mumbai,Mumbai,Street Food,14,4.4,Mid-range
+REST0131,Delhi Darbar Delhi,Delhi,North Indian,25,4.7,Budget
+REST0132,Royal Tandoor Mumbai,Mumbai,North Indian,17,3.8,Mid-range
+REST0133,Golden Crust Bakery Bangalore,Bangalore,Bakery,8,4.1,Mid-range
+REST0134,Udupi Bhavan,Delhi,South Indian,19,3.6,Budget
+REST0135,Golden Panda Kolkata,Kolkata,Chinese,19,4.4,Mid-range
+REST0136,Punjabi Tadka Mumbai,Mumbai,North Indian,18,4.7,Budget
+REST0137,Dum Delight Ahmedabad,Ahmedabad,Biryani,24,4.1,Mid-range
+REST0138,Fry Nation Kolkata,Kolkata,Fast Food,11,4.5,Mid-range
+REST0139,Crust & Crumbs Pune,Pune,Bakery,9,4.3,Budget
+REST0140,Amritsar Express Delhi,Delhi,North Indian,23,4.8,Budget
+REST0141,Dum Delight Delhi,Delhi,Biryani,27,4.1,Mid-range
+REST0142,Heavenly Sweets Hyderabad,Hyderabad,Desserts,12,4.3,Budget
+REST0143,Royal Biryani House Kolkata,Kolkata,Biryani,25,4.1,Budget
+REST0144,Sambar House Ahmedabad,Ahmedabad,South Indian,13,4.7,Premium
+REST0145,Maharaja Kitchen Bangalore,Bangalore,North Indian,16,4.2,Premium
+REST0146,Dessert Haven,Ahmedabad,Desserts,12,4.7,Mid-range
+REST0147,Nawabi Biryani Kolkata,Kolkata,Biryani,27,3.9,Mid-range
+REST0148,Burger Hub Ahmedabad,Ahmedabad,Fast Food,10,4.3,Budget
+REST0149,Maharaja Kitchen Mumbai,Mumbai,North Indian,25,4.4,Budget
+REST0150,Urban Burgers Hyderabad,Hyderabad,Fast Food,11,4.5,Budget
+REST0151,Red Dragon Mumbai,Mumbai,Chinese,17,4.7,Mid-range
+REST0152,Royal Tandoor Kolkata,Kolkata,North Indian,25,4.4,Mid-range
+REST0153,Red Dragon Hyderabad,Hyderabad,Chinese,17,3.9,Budget
+REST0154,The Continental Kitchen Hyderabad,Hyderabad,Continental,26,4.2,Mid-range
+REST0155,Bistro Central,Bangalore,Continental,18,4.0,Mid-range
+REST0156,Golden Panda Delhi,Delhi,Chinese,20,4.7,Budget
+REST0157,Punjabi Tadka Delhi,Delhi,North Indian,25,4.6,Mid-range
+REST0158,Golden Panda Delhi,Delhi,Chinese,17,4.2,Mid-range
+REST0159,Shanghai Bites Hyderabad,Hyderabad,Chinese,21,4.4,Mid-range
+REST0160,Tasty Chaat Corner Delhi,Delhi,Street Food,16,4.5,Budget
+REST0161,Bean Cafe,Mumbai,Cafe,9,4.5,Mid-range
+REST0162,Delhi Darbar Delhi,Delhi,North Indian,21,4.5,Mid-range
+REST0163,Udupi Bhavan Delhi,Delhi,South Indian,12,4.6,Premium
+REST0164,Royal Biryani House Ahmedabad,Ahmedabad,Biryani,20,4.0,Premium
+REST0165,Urban Brew Pune,Pune,Cafe,8,4.3,Budget
+REST0166,Nawabi Biryani Bangalore,Bangalore,Biryani,28,4.5,Mid-range
+REST0167,Daily Grind Cafe Mumbai,Mumbai,Cafe,10,4.6,Mid-range
+REST0168,Bean Cafe Kolkata,Kolkata,Cafe,6,4.6,Budget
+REST0169,Bella Pasta Chennai,Chennai,Italian,15,4.1,Mid-range
+REST0170,Sweet Tooth,Bangalore,Desserts,12,4.2,Budget
+REST0171,Royal Biryani House Hyderabad,Hyderabad,Biryani,27,4.3,Mid-range
+REST0172,Lucky Dragon Pune,Pune,Chinese,17,4.5,Mid-range
+REST0173,Amritsar Express Pune,Pune,North Indian,19,4.7,Mid-range
+REST0174,Hyderabadi Dum Biryani Mumbai,Mumbai,Biryani,27,4.1,Budget
+REST0175,Delhi Street Bites Mumbai,Mumbai,Street Food,11,3.7,Mid-range
+REST0176,Spice Street Bangalore,Bangalore,Street Food,14,4.6,Mid-range
+REST0177,Oriental Bowl Delhi,Delhi,Chinese,15,4.7,Budget
+REST0178,Royal Tandoor Delhi,Delhi,North Indian,15,4.5,Budget
+REST0179,Urban Plate,Mumbai,Continental,18,4.3,Budget
+REST0180,Sweet Tooth Mumbai,Mumbai,Desserts,10,4.3,Budget
+REST0181,Oven Fresh Ahmedabad,Ahmedabad,Bakery,9,4.3,Budget
+REST0182,Golden Crust Bakery Chennai,Chennai,Bakery,10,4.4,Mid-range
+REST0183,Fry Nation Mumbai,Mumbai,Fast Food,10,4.2,Mid-range
+REST0184,Delhi Darbar Hyderabad,Hyderabad,North Indian,22,4.6,Budget
+REST0185,Delhi Street Bites Delhi,Delhi,Street Food,18,4.0,Budget
+REST0186,Urban Brew Bangalore,Bangalore,Cafe,5,4.0,Mid-range
+REST0187,Royal Tandoor Pune,Pune,North Indian,21,4.6,Mid-range
+REST0188,Bean Cafe Hyderabad,Hyderabad,Cafe,6,4.7,Budget
+REST0189,Delhi Street Bites Mumbai,Mumbai,Street Food,12,4.4,Budget
+REST0190,Fit Kitchen Hyderabad,Hyderabad,Healthy,20,4.4,Budget
+REST0191,Bite Express Chennai,Chennai,Fast Food,11,3.6,Mid-range
+REST0192,Dum Delight Mumbai,Mumbai,Biryani,23,4.3,Budget
+REST0193,Royal Biryani House Mumbai,Mumbai,Biryani,20,4.3,Budget
+REST0194,Coconut Grove Mumbai,Mumbai,South Indian,15,4.5,Budget
+REST0195,Golden Crust Bakery Mumbai,Mumbai,Bakery,8,4.6,Budget
+REST0196,Biryani Junction Kolkata,Kolkata,Biryani,30,4.6,Budget
+REST0197,Idli Express Kolkata,Kolkata,South Indian,15,4.4,Mid-range
+REST0198,Punjabi Tadka Hyderabad,Hyderabad,North Indian,17,4.4,Budget
+REST0199,Chaat Junction Bangalore,Bangalore,Street Food,14,4.0,Mid-range
+REST0200,Bazaar Bites Hyderabad,Hyderabad,Street Food,15,4.1,Mid-range
+REST0201,Sambar House Delhi,Delhi,South Indian,18,4.2,Mid-range
+REST0202,Golden Crust Bakery Hyderabad,Hyderabad,Bakery,10,4.0,Budget
+REST0203,Coconut Grove Mumbai,Mumbai,South Indian,14,4.6,Budget
+REST0204,Bazaar Bites Hyderabad,Hyderabad,Street Food,13,4.4,Mid-range
+REST0205,Udupi Bhavan Bangalore,Bangalore,South Indian,17,3.8,Budget
+REST0206,Biryani Junction Pune,Pune,Biryani,30,4.7,Premium
+REST0207,Clean Plate Kitchen,Bangalore,Healthy,17,4.6,Mid-range
+REST0208,Dum Delight Ahmedabad,Ahmedabad,Biryani,28,4.2,Budget
+REST0209,Napoli Pizzeria Delhi,Delhi,Italian,22,4.5,Mid-range
+REST0210,Lucky Dragon Kolkata,Kolkata,Chinese,18,4.7,Mid-range
+REST0211,Crunchy Bites Mumbai,Mumbai,Fast Food,11,4.5,Budget
+REST0212,Bazaar Bites Chennai,Chennai,Street Food,16,4.3,Premium
+REST0213,Bella Pasta Chennai,Chennai,Italian,25,4.4,Mid-range
+REST0214,Quick Bites Delhi,Delhi,Fast Food,13,4.1,Premium
+REST0215,Daily Grind Cafe Bangalore,Bangalore,Cafe,10,4.6,Mid-range
+REST0216,Delhi Darbar Bangalore,Bangalore,North Indian,22,4.5,Mid-range
+REST0217,Urban Burgers Mumbai,Mumbai,Fast Food,14,4.5,Mid-range
+REST0218,Tasty Chaat Corner Delhi,Delhi,Street Food,15,4.1,Mid-range
+REST0219,Crunchy Bites Chennai,Chennai,Fast Food,14,4.4,Budget
+REST0220,Spice of Punjab Pune,Pune,North Indian,17,4.4,Budget
+REST0221,Spice of Punjab Bangalore,Bangalore,North Indian,18,4.4,Premium
+REST0222,Desi Street Kitchen,Mumbai,Street Food,16,4.4,Budget
+REST0223,Shanghai Bites Hyderabad,Hyderabad,Chinese,19,4.5,Budget
+REST0224,Oriental Bowl Mumbai,Mumbai,Chinese,19,4.2,Mid-range
+REST0225,Delhi Street Bites Hyderabad,Hyderabad,Street Food,13,4.2,Budget
+REST0226,Burger Hub Bangalore,Bangalore,Fast Food,10,4.2,Budget
+REST0227,Sugar Bliss Delhi,Delhi,Desserts,11,4.3,Premium
+REST0228,Maharaja Kitchen Mumbai,Mumbai,North Indian,17,4.6,Budget
+REST0229,Royal Tandoor Chennai,Chennai,North Indian,17,4.2,Budget
+REST0230,The Coffee Spot,Mumbai,Cafe,8,4.4,Budget
+REST0231,Royal Biryani House Ahmedabad,Ahmedabad,Biryani,30,4.2,Budget
+REST0232,Pizza Palace Hyderabad,Hyderabad,Italian,24,4.1,Budget
+REST0233,Lucky Dragon Bangalore,Bangalore,Chinese,15,4.4,Mid-range
+REST0234,Biryani Junction Pune,Pune,Biryani,26,4.1,Budget
+REST0235,Crust & Crumbs Bangalore,Bangalore,Bakery,12,4.3,Premium
+REST0236,Sambar House Delhi,Delhi,South Indian,20,4.4,Budget
+REST0237,Punjabi Tadka Kolkata,Kolkata,North Indian,22,4.1,Premium
+REST0238,Napoli Pizzeria Chennai,Chennai,Italian,25,4.3,Budget
+REST0239,Royal Biryani House Delhi,Delhi,Biryani,24,4.7,Premium
+REST0240,Coffee Corner Hyderabad,Hyderabad,Cafe,10,4.0,Premium
+REST0241,Bite Express Mumbai,Mumbai,Fast Food,13,4.3,Premium
+REST0242,The Coffee Spot Mumbai,Mumbai,Cafe,7,4.8,Budget
+REST0243,Mumbai Tiffin Mumbai,Mumbai,Street Food,18,4.4,Mid-range
+REST0244,Oriental Bowl Delhi,Delhi,Chinese,20,4.7,Budget
+REST0245,Fresh Fuel,Delhi,Healthy,18,4.6,Mid-range
+REST0246,Oven Fresh Delhi,Delhi,Bakery,11,4.6,Mid-range
+REST0247,Golden Crust Bakery Chennai,Chennai,Bakery,8,4.5,Mid-range
+REST0248,Oven Fresh Bangalore,Bangalore,Bakery,11,4.5,Budget
+REST0249,Napoli Pizzeria Mumbai,Mumbai,Italian,21,4.2,Mid-range
+REST0250,Wok Dynasty,Bangalore,Chinese,17,4.3,Mid-range
+REST0251,Urban Burgers Mumbai,Mumbai,Fast Food,14,4.7,Mid-range
+REST0252,Roma Kitchen Mumbai,Mumbai,Italian,24,4.7,Premium
+REST0253,Hyderabadi Dum Biryani Kolkata,Kolkata,Biryani,23,4.3,Budget
+REST0254,Golden Panda Hyderabad,Hyderabad,Chinese,16,4.5,Budget
+REST0255,Burger Hub Mumbai,Mumbai,Fast Food,11,4.2,Mid-range
+REST0256,Burger Hub Bangalore,Bangalore,Fast Food,11,4.5,Budget
+REST0257,Spice of Punjab Hyderabad,Hyderabad,North Indian,21,4.1,Budget
+REST0258,Royal Tandoor Pune,Pune,North Indian,22,4.1,Mid-range
+REST0259,Desi Street Kitchen Bangalore,Bangalore,Street Food,11,4.4,Mid-range
+REST0260,Sugar Bliss Bangalore,Bangalore,Desserts,9,4.3,Budget
+REST0261,Royal Tandoor Ahmedabad,Ahmedabad,North Indian,24,4.5,Premium
+REST0262,Delhi Darbar Mumbai,Mumbai,North Indian,23,4.3,Mid-range
+REST0263,Daily Grind Cafe Chennai,Chennai,Cafe,5,3.6,Mid-range
+REST0264,Crust & Crumbs Delhi,Delhi,Bakery,10,4.6,Budget
+REST0265,Golden Panda Mumbai,Mumbai,Chinese,20,4.4,Budget
+REST0266,Lucky Dragon Chennai,Chennai,Chinese,21,4.3,Budget
+REST0267,Little Italy Bangalore,Bangalore,Italian,15,4.7,Mid-range
+REST0268,Bite Express Hyderabad,Hyderabad,Fast Food,13,4.6,Budget
+REST0269,Chaat Junction Delhi,Delhi,Street Food,11,4.7,Budget
+REST0270,Spice of Punjab Mumbai,Mumbai,North Indian,16,4.4,Premium
+REST0271,Burger Hub Mumbai,Mumbai,Fast Food,13,4.2,Mid-range
+REST0272,Madras Cafe Delhi,Delhi,South Indian,13,4.6,Budget
+REST0273,Delhi Darbar Chennai,Chennai,North Indian,15,4.4,Premium
+REST0274,Maharaja Kitchen Bangalore,Bangalore,North Indian,24,4.3,Budget
+REST0275,Golden Crust Bakery Mumbai,Mumbai,Bakery,8,4.7,Mid-range
+REST0276,Roma Kitchen Bangalore,Bangalore,Italian,15,4.1,Mid-range
+REST0277,Dosa Plaza Hyderabad,Hyderabad,South Indian,15,4.2,Mid-range
+REST0278,Cafe Aroma Kolkata,Kolkata,Cafe,9,4.3,Premium
+REST0279,Fresh Fuel Pune,Pune,Healthy,12,4.6,Mid-range
+REST0280,Golden Crust Bakery Delhi,Delhi,Bakery,8,4.1,Budget
+REST0281,Golden Panda Mumbai,Mumbai,Chinese,16,4.1,Mid-range
+REST0282,Biryani Junction Mumbai,Mumbai,Biryani,20,4.4,Mid-range
+REST0283,Fresh Fuel Chennai,Chennai,Healthy,12,4.3,Mid-range
+REST0284,Nutri Bites,Pune,Healthy,13,4.1,Premium
+REST0285,Tasty Chaat Corner Mumbai,Mumbai,Street Food,15,4.4,Budget
+REST0286,Urban Brew Mumbai,Mumbai,Cafe,8,4.0,Budget
+REST0287,Crunchy Bites Kolkata,Kolkata,Fast Food,13,4.5,Mid-range
+REST0288,Daily Grind Cafe Chennai,Chennai,Cafe,6,4.1,Premium
+REST0289,Gourmet Avenue Hyderabad,Hyderabad,Continental,23,4.5,Premium
+REST0290,Chaat Junction Bangalore,Bangalore,Street Food,12,4.5,Budget
+REST0291,Lucky Dragon Delhi,Delhi,Chinese,16,4.4,Mid-range
+REST0292,Oven Fresh Hyderabad,Hyderabad,Bakery,9,4.7,Premium
+REST0293,Golden Panda Hyderabad,Hyderabad,Chinese,18,3.6,Budget
+REST0294,Maharaja Kitchen Hyderabad,Hyderabad,North Indian,23,4.6,Mid-range
+REST0295,Dragon Wok Kolkata,Kolkata,Chinese,21,4.4,Mid-range
+REST0296,Spice Biryani Co. Chennai,Chennai,Biryani,30,4.5,Budget
+REST0297,Tasty Chaat Corner Hyderabad,Hyderabad,Street Food,11,4.6,Premium
+REST0298,Creamy Treats,Chennai,Desserts,8,4.3,Mid-range
+REST0299,Delhi Darbar Bangalore,Bangalore,North Indian,20,4.7,Budget
+REST0300,Spice Biryani Co. Delhi,Delhi,Biryani,20,4.1,Premium
+REST0301,Pizza Palace Delhi,Delhi,Italian,21,4.3,Mid-range
+REST0302,The Coffee Spot Kolkata,Kolkata,Cafe,5,4.0,Budget
+REST0303,Cafe Aroma Pune,Pune,Cafe,5,4.4,Premium
+REST0304,Sambar House Hyderabad,Hyderabad,South Indian,13,3.8,Budget
+REST0305,Pasta Fresca,Bangalore,Italian,19,4.5,Mid-range
+REST0306,Delhi Darbar Mumbai,Mumbai,North Indian,15,4.8,Premium
+REST0307,Bite Express Hyderabad,Hyderabad,Fast Food,15,4.5,Budget
+REST0308,Golden Crust Bakery Bangalore,Bangalore,Bakery,9,4.3,Mid-range
+REST0309,Spice Street Mumbai,Mumbai,Street Food,18,3.9,Budget
+REST0310,Oriental Bowl Bangalore,Bangalore,Chinese,20,4.7,Mid-range
+REST0311,Urban Burgers Mumbai,Mumbai,Fast Food,12,4.7,Budget
+REST0312,Nawabi Biryani Hyderabad,Hyderabad,Biryani,24,4.2,Mid-range
+REST0313,Desi Street Kitchen Pune,Pune,Street Food,17,3.9,Premium
+REST0314,Biryani Express Pune,Pune,Biryani,30,4.4,Mid-range
+REST0315,Tasty Chaat Corner Chennai,Chennai,Street Food,11,4.5,Premium
+REST0316,Pizza Palace Delhi,Delhi,Italian,21,4.4,Premium
+REST0317,Clean Plate Kitchen Bangalore,Bangalore,Healthy,18,4.6,Budget
+REST0318,Grand Bistro,Hyderabad,Continental,26,4.0,Budget
+REST0319,Crust & Crumbs Delhi,Delhi,Bakery,11,4.2,Budget
+REST0320,Pizza Palace Ahmedabad,Ahmedabad,Italian,16,4.7,Mid-range
+REST0321,Tandoori Nights Chennai,Chennai,North Indian,21,4.1,Mid-range
+REST0322,The Coffee Spot Mumbai,Mumbai,Cafe,6,4.1,Budget
+REST0323,Clean Plate Kitchen Pune,Pune,Healthy,18,4.0,Mid-range
+REST0324,Quick Bites Mumbai,Mumbai,Fast Food,11,4.5,Premium
+REST0325,Coffee Corner Pune,Pune,Cafe,5,4.2,Budget
+REST0326,Golden Crust Bakery Pune,Pune,Bakery,9,3.7,Budget
+REST0327,Bean Cafe Delhi,Delhi,Cafe,7,4.7,Budget
+REST0328,Spice Biryani Co. Delhi,Delhi,Biryani,26,4.2,Premium
+REST0329,Bite Express Mumbai,Mumbai,Fast Food,14,4.4,Premium
+REST0330,Punjabi Tadka Mumbai,Mumbai,North Indian,22,4.4,Budget
+REST0331,Delhi Darbar Pune,Pune,North Indian,17,4.1,Budget
+REST0332,Royal Tandoor Chennai,Chennai,North Indian,20,4.7,Budget
+REST0333,Urban Burgers Chennai,Chennai,Fast Food,12,4.7,Budget
+REST0334,Bazaar Bites Mumbai,Mumbai,Street Food,13,4.2,Budget
+REST0335,Biryani Express Delhi,Delhi,Biryani,21,4.3,Budget
+REST0336,Urban Burgers Delhi,Delhi,Fast Food,12,4.3,Premium
+REST0337,Dessert Haven Mumbai,Mumbai,Desserts,10,4.4,Premium
+REST0338,Chennai Tiffin,Delhi,South Indian,12,4.3,Premium
+REST0339,Shanghai Bites Chennai,Chennai,Chinese,18,4.3,Budget
+REST0340,Baker's Delight Pune,Pune,Bakery,11,4.4,Premium
+REST0341,Mumbai Tiffin Chennai,Chennai,Street Food,14,4.6,Budget
+REST0342,Royal Biryani House Kolkata,Kolkata,Biryani,28,4.4,Budget
+REST0343,Urban Burgers Bangalore,Bangalore,Fast Food,15,4.7,Premium
+REST0344,Desi Street Kitchen Bangalore,Bangalore,Street Food,10,4.2,Premium
+REST0345,Pasta Fresca Bangalore,Bangalore,Italian,19,4.6,Budget
+REST0346,Tandoori Nights Ahmedabad,Ahmedabad,North Indian,24,4.3,Mid-range
+REST0347,Delhi Street Bites Mumbai,Mumbai,Street Food,15,4.3,Mid-range
+REST0348,Bazaar Bites Mumbai,Mumbai,Street Food,15,4.5,Premium
+REST0349,Delhi Street Bites Chennai,Chennai,Street Food,18,4.5,Mid-range
+REST0350,Oriental Bowl Delhi,Delhi,Chinese,22,4.6,Premium
+REST0351,Biryani Express Mumbai,Mumbai,Biryani,22,4.5,Budget
+REST0352,Punjabi Tadka Mumbai,Mumbai,North Indian,22,4.6,Premium
+REST0353,Idli Express Chennai,Chennai,South Indian,12,4.5,Budget
+REST0354,The Continental Kitchen Mumbai,Mumbai,Continental,21,4.7,Mid-range
+REST0355,Wok Dynasty Bangalore,Bangalore,Chinese,17,4.5,Budget
+REST0356,Royal Biryani House Mumbai,Mumbai,Biryani,26,4.4,Premium
+REST0357,Idli Express Bangalore,Bangalore,South Indian,20,4.2,Premium
+REST0358,Amritsar Express Chennai,Chennai,North Indian,23,4.2,Mid-range
+REST0359,Daily Grind Cafe Delhi,Delhi,Cafe,8,4.1,Budget
+REST0360,Crunchy Bites Pune,Pune,Fast Food,15,4.4,Premium
+REST0361,Dragon Wok Hyderabad,Hyderabad,Chinese,20,3.8,Mid-range
+REST0362,Udupi Bhavan Mumbai,Mumbai,South Indian,12,3.7,Mid-range
+REST0363,Punjabi Tadka Kolkata,Kolkata,North Indian,19,4.0,Mid-range
+REST0364,Spice Biryani Co. Delhi,Delhi,Biryani,21,4.7,Budget
+REST0365,Delhi Darbar Mumbai,Mumbai,North Indian,20,4.6,Budget
+REST0366,Little Italy Hyderabad,Hyderabad,Italian,20,4.5,Mid-range
+REST0367,Royal Tandoor Kolkata,Kolkata,North Indian,16,4.0,Mid-range
+REST0368,Oriental Bowl Bangalore,Bangalore,Chinese,16,4.2,Mid-range
+REST0369,Royal Tandoor Mumbai,Mumbai,North Indian,19,4.6,Mid-range
+REST0370,Nutri Bites Delhi,Delhi,Healthy,19,4.5,Budget
+REST0371,Crunchy Bites Delhi,Delhi,Fast Food,15,4.6,Budget
+REST0372,Spice of Punjab Hyderabad,Hyderabad,North Indian,20,4.5,Mid-range
+REST0373,Shanghai Bites Mumbai,Mumbai,Chinese,21,4.2,Mid-range
+REST0374,Urban Brew Bangalore,Bangalore,Cafe,8,4.6,Mid-range
+REST0375,Bite Express Chennai,Chennai,Fast Food,11,4.7,Budget
+REST0376,Shanghai Bites Delhi,Delhi,Chinese,19,4.7,Budget
+REST0377,Tasty Chaat Corner Kolkata,Kolkata,Street Food,12,4.3,Mid-range
+REST0378,Royal Tandoor Pune,Pune,North Indian,18,4.1,Budget
+REST0379,Dum Delight Mumbai,Mumbai,Biryani,25,4.5,Budget
+REST0380,Burger Hub Pune,Pune,Fast Food,12,4.7,Mid-range
+REST0381,Coconut Grove Ahmedabad,Ahmedabad,South Indian,20,4.2,Budget
+REST0382,Spice of Punjab Bangalore,Bangalore,North Indian,22,4.5,Mid-range
+REST0383,Chaat Junction Delhi,Delhi,Street Food,13,4.4,Mid-range
+REST0384,Bazaar Bites Ahmedabad,Ahmedabad,Street Food,15,4.6,Mid-range
+REST0385,Quick Bites Ahmedabad,Ahmedabad,Fast Food,15,4.3,Budget
+REST0386,Sugar Bliss Bangalore,Bangalore,Desserts,8,4.6,Premium
+REST0387,Dum Delight Hyderabad,Hyderabad,Biryani,22,4.7,Budget
+REST0388,Tuscany Table Mumbai,Mumbai,Italian,23,4.3,Mid-range
+REST0389,Clean Plate Kitchen Delhi,Delhi,Healthy,16,3.9,Mid-range
+REST0390,Bite Express Mumbai,Mumbai,Fast Food,11,4.5,Mid-range
+REST0391,Hyderabadi Dum Biryani Delhi,Delhi,Biryani,25,4.3,Mid-range
+REST0392,Urban Plate Bangalore,Bangalore,Continental,28,3.9,Mid-range
+REST0393,Golden Crust Bakery Mumbai,Mumbai,Bakery,8,4.6,Premium
+REST0394,Dragon Wok Ahmedabad,Ahmedabad,Chinese,17,4.4,Budget
+REST0395,Madras Cafe Mumbai,Mumbai,South Indian,20,4.7,Premium
+REST0396,Dum Delight Pune,Pune,Biryani,21,4.5,Budget
+REST0397,Oriental Bowl Mumbai,Mumbai,Chinese,21,4.6,Budget
+REST0398,Nawabi Biryani Mumbai,Mumbai,Biryani,20,3.7,Premium
+REST0399,Daily Grind Cafe Bangalore,Bangalore,Cafe,5,4.4,Mid-range
+REST0400,Coconut Grove Mumbai,Mumbai,South Indian,15,4.8,Mid-range
+REST0401,Nawabi Biryani Kolkata,Kolkata,Biryani,21,4.2,Mid-range
+REST0402,Coffee Corner Bangalore,Bangalore,Cafe,10,4.4,Premium
+REST0403,Red Dragon Hyderabad,Hyderabad,Chinese,19,4.2,Budget
+REST0404,Chennai Tiffin Bangalore,Bangalore,South Indian,15,4.7,Premium
+REST0405,Biryani Junction Pune,Pune,Biryani,26,4.2,Budget
+REST0406,Spice Street Bangalore,Bangalore,Street Food,16,4.3,Mid-range
+REST0407,Mumbai Tiffin Mumbai,Mumbai,Street Food,15,4.5,Mid-range
+REST0408,Bazaar Bites Mumbai,Mumbai,Street Food,14,4.4,Budget
+REST0409,Dum Delight Hyderabad,Hyderabad,Biryani,25,4.0,Budget
+REST0410,Napoli Pizzeria Bangalore,Bangalore,Italian,25,4.5,Mid-range
+REST0411,Spice of Punjab Bangalore,Bangalore,North Indian,17,3.9,Budget
+REST0412,Oriental Bowl Delhi,Delhi,Chinese,22,4.7,Premium
+REST0413,Burger Hub Pune,Pune,Fast Food,10,4.8,Budget
+REST0414,Hyderabadi Dum Biryani Delhi,Delhi,Biryani,28,4.3,Premium
+REST0415,Royal Tandoor Delhi,Delhi,North Indian,21,4.7,Premium
+REST0416,Chaat Junction Delhi,Delhi,Street Food,14,4.6,Premium
+REST0417,Oriental Bowl Delhi,Delhi,Chinese,21,4.5,Budget
+REST0418,Wholesome Bowl Chennai,Chennai,Healthy,16,4.6,Premium
+REST0419,Chennai Tiffin Delhi,Delhi,South Indian,13,3.9,Budget
+REST0420,Baker's Delight Mumbai,Mumbai,Bakery,8,4.1,Budget
+REST0421,Wok Dynasty Bangalore,Bangalore,Chinese,18,4.5,Budget
+REST0422,Biryani Express Delhi,Delhi,Biryani,26,4.0,Budget
+REST0423,Roma Kitchen Chennai,Chennai,Italian,17,4.1,Mid-range
+REST0424,Hyderabadi Dum Biryani Delhi,Delhi,Biryani,28,4.2,Mid-range
+REST0425,Golden Panda Bangalore,Bangalore,Chinese,19,4.5,Premium
+REST0426,Coconut Grove Bangalore,Bangalore,South Indian,17,4.6,Budget
+REST0427,Dosa Plaza Hyderabad,Hyderabad,South Indian,19,4.5,Mid-range
+REST0428,Fry Nation Hyderabad,Hyderabad,Fast Food,15,3.7,Mid-range
+REST0429,Roma Kitchen Bangalore,Bangalore,Italian,18,4.3,Mid-range
+REST0430,Royal Biryani House Pune,Pune,Biryani,20,4.3,Premium
+REST0431,Wok Dynasty Bangalore,Bangalore,Chinese,21,4.8,Mid-range
+REST0432,Fry Nation Chennai,Chennai,Fast Food,15,4.4,Mid-range
+REST0433,Royal Biryani House Mumbai,Mumbai,Biryani,27,4.5,Premium
+REST0434,Little Italy Pune,Pune,Italian,18,4.3,Premium
+REST0435,Golden Crust Bakery Ahmedabad,Ahmedabad,Bakery,10,4.6,Budget
+REST0436,Mumbai Tiffin Delhi,Delhi,Street Food,12,4.5,Mid-range
+REST0437,Tuscany Table Hyderabad,Hyderabad,Italian,20,4.3,Mid-range
+REST0438,Bella Pasta Chennai,Chennai,Italian,20,4.5,Mid-range
+REST0439,Idli Express Mumbai,Mumbai,South Indian,16,4.4,Premium
+REST0440,Coconut Grove Ahmedabad,Ahmedabad,South Indian,13,4.7,Budget
+REST0441,Sugar Bliss Pune,Pune,Desserts,10,4.5,Premium
+REST0442,Baker's Delight Pune,Pune,Bakery,8,4.2,Mid-range
+REST0443,Fry Nation Delhi,Delhi,Fast Food,11,4.5,Mid-range
+REST0444,Dum Delight Hyderabad,Hyderabad,Biryani,24,4.2,Mid-range
+REST0445,Coffee Corner Hyderabad,Hyderabad,Cafe,6,4.3,Mid-range
+REST0446,Biryani Junction Pune,Pune,Biryani,27,4.6,Premium
+REST0447,Punjabi Tadka Bangalore,Bangalore,North Indian,22,4.5,Mid-range
+REST0448,Royal Tandoor Bangalore,Bangalore,North Indian,23,4.3,Budget
+REST0449,Maharaja Kitchen Delhi,Delhi,North Indian,24,4.0,Budget
+REST0450,Maharaja Kitchen Mumbai,Mumbai,North Indian,23,4.4,Budget
+REST0451,Sweet Crumbs Pune,Pune,Bakery,11,4.3,Budget
+REST0452,Hyderabadi Dum Biryani Ahmedabad,Ahmedabad,Biryani,21,4.2,Budget
+REST0453,Bean Cafe Mumbai,Mumbai,Cafe,10,4.7,Budget
+REST0454,Bite Express Delhi,Delhi,Fast Food,15,3.9,Premium
+REST0455,Amritsar Express Bangalore,Bangalore,North Indian,23,4.2,Mid-range
+REST0456,Red Dragon Mumbai,Mumbai,Chinese,21,4.7,Mid-range
+REST0457,Chennai Tiffin Mumbai,Mumbai,South Indian,18,4.2,Premium
+REST0458,Cafe Aroma Mumbai,Mumbai,Cafe,6,4.1,Premium
+REST0459,Dum Delight Chennai,Chennai,Biryani,27,4.2,Budget
+REST0460,Punjabi Tadka Delhi,Delhi,North Indian,24,4.6,Budget
+REST0461,Pizza Palace Delhi,Delhi,Italian,15,4.4,Budget
+REST0462,Bazaar Bites Delhi,Delhi,Street Food,18,4.2,Budget
+REST0463,Frosted Delights,Mumbai,Desserts,10,4.4,Premium
+REST0464,Royal Biryani House Kolkata,Kolkata,Biryani,29,4.6,Mid-range
+REST0465,Biryani Junction Delhi,Delhi,Biryani,20,4.2,Mid-range
+REST0466,Hyderabadi Dum Biryani Mumbai,Mumbai,Biryani,27,4.1,Premium
+REST0467,Spice of Punjab Chennai,Chennai,North Indian,23,4.5,Mid-range
+REST0468,Velvet Desserts Delhi,Delhi,Desserts,10,4.3,Mid-range
+REST0469,Brewed Awakening Hyderabad,Hyderabad,Cafe,5,4.1,Budget
+REST0470,Bazaar Bites Chennai,Chennai,Street Food,18,4.2,Mid-range
+REST0471,Spice Street Bangalore,Bangalore,Street Food,11,4.1,Mid-range
+REST0472,Sweet Crumbs Bangalore,Bangalore,Bakery,9,4.5,Mid-range
+REST0473,Nawabi Biryani Chennai,Chennai,Biryani,23,4.4,Mid-range
+REST0474,Fry Nation Bangalore,Bangalore,Fast Food,12,4.7,Mid-range
+REST0475,Lucky Dragon Ahmedabad,Ahmedabad,Chinese,16,4.6,Mid-range
+REST0476,Fit Kitchen Kolkata,Kolkata,Healthy,19,4.1,Mid-range
+REST0477,Desi Street Kitchen Delhi,Delhi,Street Food,18,4.0,Mid-range
+REST0478,Bite Express Bangalore,Bangalore,Fast Food,10,4.0,Mid-range
+REST0479,Coffee Corner Pune,Pune,Cafe,5,4.2,Premium
+REST0480,Roma Kitchen Mumbai,Mumbai,Italian,15,4.6,Premium
+REST0481,Lucky Dragon Chennai,Chennai,Chinese,19,4.8,Mid-range
+REST0482,Bean Cafe Bangalore,Bangalore,Cafe,5,4.4,Budget
+REST0483,Spice Street Chennai,Chennai,Street Food,13,4.1,Mid-range
+REST0484,Creamy Treats Hyderabad,Hyderabad,Desserts,8,4.5,Premium
+REST0485,Frosted Delights Hyderabad,Hyderabad,Desserts,9,4.6,Mid-range
+REST0486,Oriental Bowl Delhi,Delhi,Chinese,22,4.7,Mid-range
+REST0487,Bella Pasta Mumbai,Mumbai,Italian,21,4.3,Premium
+REST0488,Nawabi Biryani Chennai,Chennai,Biryani,26,3.7,Mid-range
+REST0489,Tasty Chaat Corner Chennai,Chennai,Street Food,14,3.6,Premium
+REST0490,Classic Table,Kolkata,Continental,26,4.1,Mid-range
+REST0491,Sugar Oven Ahmedabad,Ahmedabad,Bakery,9,4.3,Budget
+REST0492,Bistro Central Ahmedabad,Ahmedabad,Continental,25,4.6,Mid-range
+REST0493,Maharaja Kitchen Delhi,Delhi,North Indian,20,4.2,Budget
+REST0494,Dragon Wok Chennai,Chennai,Chinese,20,4.6,Budget
+REST0495,Pasta Fresca Hyderabad,Hyderabad,Italian,24,4.5,Premium
+REST0496,Dosa Plaza Mumbai,Mumbai,South Indian,15,4.2,Budget
+REST0497,Golden Panda Kolkata,Kolkata,Chinese,20,4.5,Premium
+REST0498,Punjabi Tadka Mumbai,Mumbai,North Indian,18,4.4,Budget
+REST0499,Oriental Bowl Hyderabad,Hyderabad,Chinese,20,4.6,Budget
+REST0500,Pasta Fresca Delhi,Delhi,Italian,25,4.4,Mid-range
